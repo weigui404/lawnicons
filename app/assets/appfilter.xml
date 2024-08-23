@@ -6,8 +6,6 @@
   <!-- Static Calendars -->
   <item drawableIgnore="true" component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <!-- Lawnicons -->
-  <item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="1dm" name="1dm" />
-  <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="1dm+" name="1dm+" />
   <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay" name="支付宝" />
   <item component="ComponentInfo{com.alibaba.aliyun/com.alibaba.aliyun.biz.login.WelcomeActivity}" drawable="aliyun" name="aliyun" />
   <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.launcher.splash.SplashActivity}" drawable="aliyundrive" name="阿里云盘" />
@@ -42,6 +40,8 @@
   <item component="ComponentInfo{com.icbc/com.icbc.activity.init.NewLoadingActivity}" drawable="icbc" name="工商银行" />
   <item component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}" drawable="icon_request" name="Icon Request" />
   <item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="idle_fish" name="闲鱼" />
+  <item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="idm" name="1dm" />
+  <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="idm+" name="1dm+" />
   <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="jd" name="京东" />
   <item component="ComponentInfo{me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity}" drawable="kernel_su" name="KernelSU" />
   <item component="ComponentInfo{io.github.vvb2060.keyattestation/io.github.vvb2060.keyattestation.home.HomeActivity}" drawable="key_attestation" name="密钥认证" />
